@@ -1,0 +1,3 @@
+# there's no need to add everything (every file) to git. Like, node_modules as we can get this file just by npm install command and we'll simply get it
+node_modules
+.env
