@@ -5,10 +5,12 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
+    // "start": "node UsingObject.js"
+
   },
   "author": "shrishti",
   "license": "ISC",
-  "dependencies": {
+  "dependencies": {   // these, we've installed 
     "dotenv": "^16.4.5",
     "express": "^4.21.1"
   }
